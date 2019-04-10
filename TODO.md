@@ -1,5 +1,5 @@
 - reimplement
-    - [] sorted-set
+    - [ ] sorted-set
 - commands
     - [x] get
     - [x] set
