@@ -1,5 +1,6 @@
 - reimplement
     - [ ] sorted-set
+    - [ ] use future or [may](https://github.com/Xudong-Huang/may) replace thread
 - commands
     - [x] get
     - [x] set
