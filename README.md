@@ -7,7 +7,7 @@ Redis re-implemented in Rust.
 
 ## Why?
 
-To learn Rust.
+learn rust & practice
 
 ## Use Cases
 
